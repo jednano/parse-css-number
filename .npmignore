@@ -1,0 +1,11 @@
+.editorconfig
+.gitattributes
+*.yml
+ts*.json
+*.map
+*.tgz
+dist/**/*.test.js
+dist/**/*.test.d.ts
+src/
+parse-css-number-*/
+coverage/
