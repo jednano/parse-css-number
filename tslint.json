@@ -1,0 +1,8 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["@jedmao/tslint"],
+  "rules": {
+    "interface-name": false,
+    "no-var-requires": false
+  }
+}
